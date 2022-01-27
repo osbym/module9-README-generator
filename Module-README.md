@@ -24,6 +24,11 @@ node index.js
 
 ![image](https://user-images.githubusercontent.com/87884472/151427784-60057eec-e64f-443a-8756-32fef5a74144.png)
 
+## Walkthrough GIF
+
+![walkthrough8mb](https://user-images.githubusercontent.com/87884472/151433524-186af752-0e5d-4f20-a3eb-6266ba91884a.gif)
+
+
 
 
 
