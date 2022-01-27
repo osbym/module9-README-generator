@@ -62,10 +62,10 @@ const questions = () => {
         {
             type: "list",
             name: "licenses",
-            message: "Which license(s) will this use?",
+            message: "Which license will this use?",
             choices: 
                 [
-                    "ISC",
+            
                     "MIT"
                 ]
         },
