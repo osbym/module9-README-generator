@@ -1,0 +1,22 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "# Module 09 Node.js and ES6+ Challenge: Good README Generator",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/osbym/module9-README-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "bugs": {
+      "url": "https://github.com/osbym/module9-README-generator/issues"
+    },
+    "homepage": "https://github.com/osbym/module9-README-generator#readme",
+    "dependencies": {
+      "inquirer": "^7.2.0"
+    }
+  }
