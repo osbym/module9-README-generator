@@ -1,5 +1,5 @@
 
-# READ ME
+# Test Project
 ## Table of Conetents
 * [Description](#description)
 * [Installation](#installation)
@@ -13,10 +13,10 @@
 ### This is my project description
     
 ## Installation
-### This is how to install the app
+### YES
     
 ## Usage
-### This is a usage example
+### This is how it will be used
 ## License
 ### MIT
 ## Contributions
