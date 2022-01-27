@@ -13,19 +13,19 @@
 ### This is my project description
     
 ## Installation
-### Yes
+### This is how to install the app
     
 ## Usage
-### This is a test
+### This is a usage example
 ## License
 ### MIT
 ## Contributions
 ### 5
 ## Tests
-### Yes
+### YES
 ## Questions
 ### (https://github.com/osbym)
-### marcus.osby@gmail.com
+### marcus.damon.osby@gmail.com
 ## Demo
 [![demo]({})]({./video/README-demonstration.webm} "Demo")
 [![Alternate Text]({image-url})]({video-url} "Link Title")
